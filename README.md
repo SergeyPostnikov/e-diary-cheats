@@ -17,7 +17,7 @@
 ## Использвание
 поместить файл cheatings.py в папку с manage.py и вызвать:
 ```
-pyton manage.py shell
+python3 manage.py shell
 ```
 затем в интерактивном режиме можно ввести
 ```
